@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tum:home|Door43 (tum)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tum|d43-tum repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tum/archive/master.zip|d43-tum.zip]]
+
+**Recent Changes**
+{{changes>ns = tum}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tum|Ethnologue data]]
+
